@@ -6,7 +6,7 @@
 ## Source Code Inspection
 오픈, Apple 소스 등등을  쉽게 찾아봅시다.
 
-### Then 보기776
+### Then 보기
 | Mouse and Trackpad | Shortcuts |
 | --- | --- |
 | Use mouse to focus and type | Close the lef
