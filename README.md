@@ -1,5 +1,3 @@
-# Korean_bob_the_developer
-
 # Minimize Trackpad & Mouse Usage
 기본적으로 arrow key대신 거리가 짧은 `ctrl-p-n-b-f` 사용하시는 것을 권장합니다. `delete`키 대신 `ctrl-h`. 영타는 표준으로 300타 이상 나오시기를 권장합니다. `cmd-left/right`대신 `ctrl-a`와 `ctrl-e` 사용하시길 바랍니다. 마지막으로 마우스를 만지면 그만큼 시간이 소비됩니다.
 
@@ -52,7 +50,7 @@ t panel using `cmd-0` or `cmd-j` to focus |
 | --- | --- |
 | move up an down to see but cursor also changes | `Scroll Line Down/Up`을  key bindings 에 추가. 개인적으로 `cmd-opt-ctrl-p/n`사용 |  
 
-<br>
+
 ## API Help
 닌자처럼 빠르게 정보를 캐어옵시다.
 
